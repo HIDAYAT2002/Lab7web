@@ -1,5 +1,5 @@
-# Lab7web# Lab7WEB
-# Praktikum Ke 7
+# Lab7web
+## Praktikum Ke 7
 #
 # Hidayat Tulloh
 ## 312110110
